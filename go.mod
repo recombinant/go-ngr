@@ -1,4 +1,4 @@
-module github.com/recombinant/go-ngr
+module github.com/recombinant/go-osngr
 
 go 1.12
 

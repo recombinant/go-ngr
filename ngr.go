@@ -24,7 +24,7 @@
 //  Myriad 100km × 100km square
 //  Hectad 10km × 10km square
 //  Tetrad 2km × 2km square
-package ngr
+package osngr
 
 import (
 	"errors"

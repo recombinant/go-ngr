@@ -1,4 +1,4 @@
-package ngr
+package osngr
 
 import (
 	"fmt"
